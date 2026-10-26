@@ -52,13 +52,6 @@ I turn complex domain rules into software that is clear to evolve, observable in
 | **Feb 2022 – Aug 2022** | **Backend .NET Developer · Algar Tech LATAM** | Enterprise maintenance, incident resolution, SQL Server, production support |
 | **Jul 2019 – Feb 2022** | **Back-End Developer · Newshore** | VivaAir systems, operational integrations, REST, WCF, ASP.NET Core |
 
-## Public builds
-
-| [Scaffoldings](https://github.com/GewraldsBraook/Scaffoldings) | [Parking UCaldas Bot](https://github.com/GewraldsBraook/ParkingUCaldasBot) | [Portfolio](https://github.com/GewraldsBraook/GewraldsBraook.github.io) |
-|---|---|---|
-| A .NET reference API exploring DDD, CQRS, MediatR, Serilog, and OpenAPI. | A conversational WhatsApp parking-reservation proof of concept using n8n, Twilio, Gemini, and Docker. | The source behind my interactive, aviation-inspired personal site. |
-| [`VIEW REPOSITORY →`](https://github.com/GewraldsBraook/Scaffoldings) | [`VIEW REPOSITORY →`](https://github.com/GewraldsBraook/ParkingUCaldasBot) | [`OPEN LIVE SITE →`](https://gewraldsbraook.github.io/) |
-
 ## Education
 
 **Bachelor's Degree in Computer Engineering** · University of Caldas · 2019–2026<br>
