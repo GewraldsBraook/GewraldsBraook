@@ -1,68 +1,75 @@
-# 🌌 GEWRALDS BRAOOK // BACKEND ENGINEER
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+  <img src="./assets/profile-header-dark.svg" alt="Gewralds Braook — Backend .NET Engineer building reliable systems for aviation technology" width="100%">
+</picture>
 
-```diff
-+ Booting profile...
-+ Sector: Aviation Tech
-+ Stack: .NET / Azure / Messaging / Databases
-+ Status: Building resilient backend systems
-```
+<p align="center">
+  <a href="https://gewraldsbraook.github.io/"><img alt="Open portfolio" src="./assets/badge-portfolio.svg"></a>
+  <a href="https://www.linkedin.com/in/gewralds-braook-39024b1b4/"><img alt="View LinkedIn profile" src="./assets/badge-linkedin.svg"></a>
+  <a href="mailto:gewralds@outlook.com"><img alt="Send email" src="./assets/badge-email.svg"></a>
+</p>
 
-## 💫 About Me
-Backend developer focused on building scalable solutions in the **.NET ecosystem**.  
-I work mainly in **aviation technology**, contributing to systems related to **airline retailing, Offer & Order flows, integrations, and operational tools**.
+# Backend systems for complex operations
 
-I enjoy designing clean backend architectures, applying patterns such as **CQRS**, improving reliability, and working with distributed systems powered by events, APIs, and cloud services.
+I'm **Gewralds Braook**, a Backend .NET Engineer with **6+ years of experience** building APIs, integrations, and distributed services. My work has supported aviation products for **VivaAir, JSX, and Riyadh Air** — from operational reporting to disruption management and modern Offer & Order capabilities.
 
-> **Current** keep evolving toward a stronger **Senior Backend Engineer** profile by combining solid engineering fundamentals with modern AI-assisted development workflows.
+I turn complex domain rules into software that is clear to evolve, observable in production, and dependable when operations get difficult.
+
+| 6+ years | 3 airline programs | .NET Framework → .NET 9 | Manizales · UTC-5 |
+|:---:|:---:|:---:|:---:|
+| Backend engineering | Aviation technology | Modernization experience | Remote-ready |
+
+## Selected aviation systems
+
+| Product | What I contributed | Engineering focus |
+|---|---|---|
+| **Offer & Order · Riyadh Air** | Backend services for airline retailing and order capabilities. | Clean Architecture, CQRS, event-driven flows |
+| **Disruption Management · JSX** | Through-flight logic supporting operational continuity during disruptions. | Domain workflows, distributed services, reliability |
+| **SkyLedger Integration · VivaAir** | Integration between operational systems and an external reporting platform. | WCF, REST, SQL Server, reliable data exchange |
+
+> These systems were delivered within engineering teams. The summaries describe my contribution without exposing proprietary implementation details.
+
+## Engineering toolkit
+
+**Backend** · `C#` `ASP.NET Core` `.NET Framework` `.NET 6–9` `WCF`<br>
+**Architecture** · `Clean Architecture` `CQRS` `DDD` `Microservices` `Distributed systems`<br>
+**Messaging & data** · `RabbitMQ` `Redis` `SQL Server` `MongoDB`<br>
+**Platform & delivery** · `Azure` `Azure DevOps` `Docker` `CI/CD`<br>
+**Quality** · `xUnit` `Code review` `Debugging` `Production support`
+
+## From idea to production
+
+| Design the boundary | Build the flow | Own the outcome |
+|---|---|---|
+| Model domain rules, contracts, and failure modes before implementation. | Connect APIs, events, data stores, and external systems with clear responsibilities. | Review, test, observe, troubleshoot, and support the software in production. |
+
+## Experience
+
+| Period | Role | Focus |
+|---|---|---|
+| **Aug 2022 – Jun 2026** | **Software Engineer II · FLYR** | Airline platforms, Offer & Order, integrations, disruption-management tooling |
+| **Feb 2022 – Aug 2022** | **Backend .NET Developer · Algar Tech LATAM** | Enterprise maintenance, incident resolution, SQL Server, production support |
+| **Jul 2019 – Feb 2022** | **Back-End Developer · Newshore** | VivaAir systems, operational integrations, REST, WCF, ASP.NET Core |
+
+## Public builds
+
+| [Scaffoldings](https://github.com/GewraldsBraook/Scaffoldings) | [Parking UCaldas Bot](https://github.com/GewraldsBraook/ParkingUCaldasBot) | [Portfolio](https://github.com/GewraldsBraook/GewraldsBraook.github.io) |
+|---|---|---|
+| A .NET reference API exploring DDD, CQRS, MediatR, Serilog, and OpenAPI. | A conversational WhatsApp parking-reservation proof of concept using n8n, Twilio, Gemini, and Docker. | The source behind my interactive, aviation-inspired personal site. |
+| [`VIEW REPOSITORY →`](https://github.com/GewraldsBraook/Scaffoldings) | [`VIEW REPOSITORY →`](https://github.com/GewraldsBraook/ParkingUCaldasBot) | [`OPEN LIVE SITE →`](https://gewraldsbraook.github.io/) |
+
+## Education
+
+**Bachelor's Degree in Computer Engineering** · University of Caldas · 2019–2026<br>
+Completed while working full-time in software engineering.
 
 ---
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gewralds-braook-39024b1b4/)
-
----
-
-## ⚙️ Tech Arsenal
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=c-sharp&logoColor=7C3AED)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=.net&logoColor=8B5CF6)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=F97316)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=EF4444)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=22C55E)
-![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=F43F5E)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FB923C)
-![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=60A5FA)
-
----
-
-## 🧠 Engineering Focus
-- Backend development with **C# / .NET**
-- **CQRS** and clean backend design
-- **Event-driven architecture**
-- API design and service integrations
-- Cloud-based workflows with **Azure**
-- Persistence with **SQL Server, MongoDB, and Redis**
-- Messaging and async communication with **RabbitMQ**
-- Continuous improvement, maintainability, and clean design
-
----
-
-## ✈️ Domain Experience
-```txt
-[Aviation Technology]
- ├─ Airline retailing flows
- ├─ Offer & Order ecosystem
- ├─ Operational/disruption-related tooling
- └─ Enterprise backend integrations
-```
-
----
-
-## 🧬 Dev Philosophy
-> Build it clean.  
-> Make it reliable.  
-> Automate what hurts.  
-> Keep learning.  
-> Stay future-ready.
-
----
+<p align="center">
+  <strong>Building reliable backends for integration-heavy products.</strong><br>
+  <sub>Manizales, Colombia · Remote-ready · COT / UTC-5</sub><br><br>
+  <a href="https://gewraldsbraook.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gewralds-braook-39024b1b4/">LinkedIn</a> ·
+  <a href="mailto:gewralds@outlook.com">Email</a>
+</p>

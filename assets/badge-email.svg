@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="34" viewBox="0 0 138 34" role="img" aria-labelledby="title desc">
+  <title id="title">Email</title>
+  <desc id="desc">Send an email to Gewralds Braook</desc>
+  <rect x="1" y="1" width="136" height="32" rx="8" fill="#0a1726" stroke="#214258"/>
+  <rect x="11" y="11" width="16" height="12" rx="2" fill="none" stroke="#5eebff" stroke-width="1.5"/>
+  <path d="M12 12l7 6 7-6" fill="none" stroke="#5eebff" stroke-width="1.2"/>
+  <text x="36" y="21" fill="#ecf8ff" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">EMAIL</text>
+  <path d="M119 13h6v6M125 13l-8 8" fill="none" stroke="#f5a623" stroke-width="1.5"/>
+</svg>
