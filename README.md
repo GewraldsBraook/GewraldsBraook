@@ -54,8 +54,8 @@ I turn complex domain rules into software that is clear to evolve, observable in
 
 ## Education
 
-**Bachelor's Degree in Computer Engineering** · University of Caldas · 2019–2026<br>
-Completed while working full-time in software engineering.
+**Computer Engineering — studies in progress** · University of Caldas · 2019–Present<br>
+Pursuing the program part-time while working full-time in software engineering.
 
 ---
 
